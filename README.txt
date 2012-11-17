@@ -1,2 +1,2 @@
-Just q smqll test.
-I want to knoz what zill happen.
+Just a small test.
+I want to know what will happen.
